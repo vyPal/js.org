@@ -1104,6 +1104,7 @@ var cnames_active = {
   "getdot": "enderandfiredev.github.io/getdot",
   "getlink": "ilovecode1.github.io/linkjs", // noCF? (don´t add this in a new PR)
   "getmd5": "lll69.github.io/getmd5",
+  "gjsframe": "vypal.github.io/gjsframe",
   "ghapi": "haydennyyy.github.io/node-ghapi",
   "ghastly": "hkwu.github.io/ghastly",
   "ghsamm": "ghsamm.github.io", // noCF? (don´t add this in a new PR)
